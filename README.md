@@ -1,1 +1,1 @@
-# healthcare Data analysis using SQL
+# Healthcare Data analysis using SQL
