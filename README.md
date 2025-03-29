@@ -6,10 +6,10 @@ it provides to extract valuable insights into admission rates,patient stays,and 
 data-driven decision-making.
 
 Objectives
-Analyze hospital stay durations and admission trends.
-Optimize resource allocation and staff planning.
-Identify common diagnosis patients patterns.
-support data-driven healthcare decisions.
+1.Analyze hospital stay durations and admission trends.
+2.Optimize resource allocation and staff planning.
+3.Identify common diagnosis patients patterns.
+4.support data-driven healthcare decisions.
 
 Dataset
 The data for this project is sourced from the Kaggle dataset:
