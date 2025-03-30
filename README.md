@@ -13,9 +13,12 @@ Objectives
 
 Dataset
 The data for this project is sourced from the Kaggle dataset:
+https://www.kaggle.com/datasets/prasad22/healthcare-dataset
 
 
 
-##Schema
-...sql
+
+
+
+
 
