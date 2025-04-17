@@ -1,4 +1,4 @@
-# Healthcare Data analysis using SQL
+# Healthcare Data Analysis using SQL
 
 Overview
 This project analyzes healthcare data using SQL to uncover key trends,optimize patients care,and improve hospital efficiency.
